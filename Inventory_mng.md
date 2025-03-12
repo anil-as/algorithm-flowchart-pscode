@@ -30,10 +30,5 @@ START
 END
 ```
 
-#### Flowchart
-
-[Inv_mgt_flowchart.pdf](https://github.com/user-attachments/files/19203034/Inv_mgt_flowchart.pdf)
-[Inv_mgt_submod_flowchart.pdf](https://github.com/user-attachments/files/19203051/Inv_mgt_submod_flowchart.pdf)
-
 
 
